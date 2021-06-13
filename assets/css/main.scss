@@ -1,0 +1,28 @@
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+
+body {
+    background-color: #edeef0;
+}
+
+input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #666666;
+    text-decoration: none;
+}
+
+.container {
+    display: flex;
+}
+
+.block {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 5px #ddd;
+}
